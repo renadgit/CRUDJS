@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/prj-one/precache-manifest.113a1d828d190046d5336407588e714b.js"
+  "precache-manifest.f21761203a46496bfc50cdd1b7435e6f.js"
 );
 
 workbox.core.setCacheNameDetails({prefix: "prj-one"});
